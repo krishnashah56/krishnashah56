@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Krishna! 👋 
+### Python Developer | AI/ML Enthusiast | SQL Specialist
 
-<!--
-**krishnashah56/krishnashah56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer focused on building efficient automation tools, analyzing data, and exploring the world of Machine Learning. I enjoy turning complex data into actionable insights and building scalable backend solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / Machine Learning / Data Science**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Tools & Backend**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Image Resizer](https://github.com/krishnashah56/image_resizer)** | Python, Pillow | An automation tool to batch process and resize images efficiently. |
+| **AI Sales Predictor** | Python, Scikit-Learn | (In Progress) Using ML to forecast sales trends based on historical data. |
+| **SQL Data Explorer** | PostgreSQL, Python | Advanced SQL queries to extract insights from complex datasets. |
+
+---
+
+### 📊 GitHub Stats
+![krishna shah](https://github-readme-stats.vercel.app/api?username=krishnashah56&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnashah56&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+- **LinkedIn:** [www.linkedin.com/in/krishnashah765]
+- **Email:** [shahkrishna765@gmail.com]
+
+- 🔭 I’m currently working on: **Automation & Predictive Modeling**
+- 🌱 I’m currently learning: **Deep Learning and Advanced SQL Optimization**
