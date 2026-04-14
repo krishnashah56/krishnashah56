@@ -34,10 +34,19 @@ I am a passionate developer focused on building efficient automation tools, anal
 | **SQL Data Explorer** | PostgreSQL, Python | Advanced SQL queries to extract insights from complex datasets. |
 
 ---
+## 📊 Activity & Metrics
 
-### 📊 GitHub Stats
-![krishna shah](https://github-readme-stats.vercel.app/api?username=krishnashah56&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnashah56&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnashah56&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnashah56&theme=algolia" width="48%" />
+</p>
+
+### 🛠 Skills Proficiency (Manual Tracker)
+*Since I am actively building new projects, here is my current focus:*
+
+- **Python** 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
+- **SQL** 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40%
+- **AI/ML** 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20%
 
 ---
 
